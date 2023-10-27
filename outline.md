@@ -40,3 +40,15 @@ Category:
     + editItem()
     + reorder()
     + email()
+
+
+------------------------------------------------------------------
+
+
+Order:
+    - title/name
+    - images
+    - price
+    - quantity
+    - total
+    - subtotal
