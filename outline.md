@@ -19,6 +19,17 @@ Category:
     - title
     - 
 
+Order:
+    - title/name
+    - images
+    - price
+    - quantity
+    - total
+    - subtotal
+
+Shipping:
+
+
 
 ------------------------------------------------------------------
 
